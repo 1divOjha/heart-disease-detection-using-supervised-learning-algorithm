@@ -1,4 +1,4 @@
-# Heart Disease Detection Using Classification Methods
+# Heart Disease Detection Using Supervised Learning
 
 ## Abstract
 Heart diseases remain a prominent cause of death worldwide. This project addresses the necessity for solutions that can identify individuals at risk of heart disease promptly and precisely. Leveraging data visualization techniques and machine learning models, a reliable and efficient tool was developed to assist healthcare professionals in this task. Beginning with detailed Exploratory Data Analysis (EDA), visualizations were employed to unravel complex patterns within the Cleveland Heart Disease dataset. Subsequently, multiple classification algorithms were trained and evaluated using various metrics. The objective is to identify the most effective method for accurately detecting heart disease. The appropriate classification model will enable timely diagnosis and treatment of heart diseases.
